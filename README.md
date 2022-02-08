@@ -6,9 +6,9 @@
 
 # WAIT FOR LATEST UPDATES
 
-## JOIN [@𝐒𝐔𝐏𝐏𝐎𝐑𝐓](HTTPS://T.ME/OctaveSupport) 
+## JOIN [@𝐒𝐔𝐏𝐏𝐎𝐑𝐓](HTTPS://T.ME/V3NOM_SUPPORT) 
 
-## JOIN [@𝐂𝐇𝐀𝐍𝐍𝐄𝐋](HTTPS://T.ME/OctaveUpdates) 
+## JOIN [@𝐂𝐇𝐀𝐍𝐍𝐄𝐋](HTTPS://T.ME/AMAN_JHA_OFFICIAL) 
 
 # DEPLOY TO HEROKU 
 
